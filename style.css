@@ -1,0 +1,39 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin: auto;
+    
+}
+
+.post-incons
+{
+   display: flex;
+   
+   
+}
+.allingright
+{
+   position: absolute;
+   right: 770px;
+}
+
+
+ article {
+    width: 400px;
+    margin: auto;
+    border: black;
+
+ }
+ .Article-header{
+    display: Flex;
+    justify-content: space-between;
+    padding: 0 15px;
+    margin: auto;
+ }
+
+ 
+ 
+ 
